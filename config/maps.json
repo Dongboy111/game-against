@@ -1,0 +1,14 @@
+{
+  "team1":{
+    "number":2,
+    "strategy":"opp",
+    "startMaps":60,
+    "imagesPath": "resource/images/team1.png"
+  },
+  "team2":{
+    "number":2,
+    "strategy":"opp",
+    "startMaps":60,
+    "imagesPath": "resource/images/team2.png"
+  }
+}
